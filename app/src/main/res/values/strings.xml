@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMemory</string>
+    <string name="moves_0">Moves: 0</string>
+</resources>
